@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Biomedical Engineering
 ----------------------
 
-I've been learning to code for 3 years ,I started with Python, So I have really found a passion for Machine Learning like to AI with Diffusion Models
+I've been learning to code for 3 years ,I started with Python,and I have really found a passion for Machine Learning like AI with Diffusion Models
 
 * 🌍  I'm based in Bogotá D.C.
 * ✉️  You can contact me at [al.ospinar1@uniandes.edu.co](mailto:al.ospinar1@uniandes.edu.co)
-* 🧠  I'm learning C++
+* 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm interested about the development Video Games.
 
