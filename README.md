@@ -1,33 +1,97 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrés Ospina
-=====================================================================================================================================
+# Hi there! 👋 I'm Andrés Ospina
 
-Biomedical Engineering
-----------------------
+### 🎮 Gameplay Programmer | Software Engineer | Game Developer
 
-I've been learning to code for 3 years ,I started with Python,and I have really found a passion for Machine Learning like AI with Diffusion Models
+I'm a **Biomedical Engineer** currently pursuing a **Master's degree in Software Engineering**, with a strong focus on **game development and gameplay programming**.
 
-* 🌍  I'm based in Bogotá D.C.
-* ✉️  You can contact me at [al.ospinar1@uniandes.edu.co](mailto:al.ospinar1@uniandes.edu.co)
-* 🧠  I'm learning Javascript
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I'm interested about the development Video Games.
+I started programming with Python and have since explored software development, machine learning, web development, and embedded systems. Currently, I'm focusing on **Unity, C#, gameplay systems, Game AI, and technical game development**.
 
-### Skills
+My goal is to grow as a **Gameplay Programmer** and eventually specialize in **Game AI, Game Systems, and Technical Design**.
+
+* 🌍 Based in **Bogotá D.C., Colombia**
+* 🎓 Master's student in **Software Engineering**
+* 🎮 Currently learning **Unity & C#**
+* 🧠 Interested in **Game AI, Gameplay Programming & Game Systems**
+* 🤝 Open to collaborating on **game development and software projects**
+* 🚀 Building projects to strengthen my **game development portfolio**
+
+## 🛠️ Technologies & Skills
+
+### Programming Languages
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+</a>
 </p>
 
-### Socials
+### Game Development
 
-<p align="left"> <a href="https://www.github.com/alospinar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/andrés-leonardo-ospina-ríos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+<a href="https://unity.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" />
+</a>
+</p>
 
-### Badges
+**Currently learning:**
 
-<b>My GitHub Stats</b>
+* 🎮 Gameplay Programming
+* 🤖 Game AI
+* 🧩 Game Systems & Architecture
+* 🎨 Technical Design
+* ⚙️ Unity & C#
+* 🧠 Design Patterns for Game Development
 
-<a href="http://www.github.com/alospinar"><img src="https://github-readme-stats.vercel.app/api?username=alospinar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alospinar's GitHub stats" /></a>
+### Other Technologies
 
-<a href="http://www.github.com/alospinar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alospinar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
+</a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="36" height="36" alt="Arduino" />
+</a>
+</p>
 
-<a href="https://github.com/alospinar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alospinar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🎮 Current Focus
+
+I'm currently building my skills around:
+
+```text
+Gameplay Programming
+        │
+        ├── Game AI
+        ├── Game Systems
+        ├── Technical Design
+        └── Unity & C#
+```
+
+My long-term goal is to become a **Senior Gameplay Programmer** capable of designing and implementing complex gameplay systems and intelligent game behaviors.
+
+## 🚀 Projects
+
+
+
+
+
+Check out my repositories to see what I'm building.
+
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://github.com/alospinar" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/andrés-leonardo-ospina-ríos" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+</a>
+</p>
+
+📫 **Let's build something together!**
