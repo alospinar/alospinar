@@ -22,6 +22,17 @@ I've been learning to code for 3 years ,I started with Python,and I have really 
 
 <p align="left"> <a href="https://www.github.com/alospinar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/andrés-leonardo-ospina-ríos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+### Projects
+
+- [FestivalMusica_Project](https://github.com/alospinar/FestivalMusica_Project) — Music festival landing page built with HTML, Sass, JavaScript, Gulp, and Node.js.
+- [EcomerceComfortatHome-mvc-php](https://github.com/alospinar/EcomerceComfortatHome-mvc-php) — E-commerce web application developed with a PHP MVC architecture.
+- [appsalon-mvc-php](https://github.com/alospinar/appsalon-mvc-php) — Appointment/salon management project implemented in PHP using MVC patterns.
+- [Front_Store_Project](https://github.com/alospinar/Front_Store_Project) — Frontend online store project focused on responsive HTML/CSS layouts.
+- [Blog_Coffee](https://github.com/alospinar/Blog_Coffee) — Blog-style website for coffee content using HTML, CSS, and JavaScript.
+- [Project_Freelance_Web](https://github.com/alospinar/Project_Freelance_Web) — Personal freelance-style web design project created with HTML and CSS.
+- [parcial-angular](https://github.com/alospinar/parcial-angular) — Angular-based project showcasing component-driven frontend development.
+- [tutorial_flask](https://github.com/alospinar/tutorial_flask) — Flask practice project covering backend fundamentals in Python.
+
 ### Badges
 
 <b>My GitHub Stats</b>
