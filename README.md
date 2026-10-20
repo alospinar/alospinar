@@ -47,6 +47,8 @@ A 2D platformer project focused on developing gameplay mechanics and strengtheni
 
 **Genre:** Retro Arcade Shooter
 
+[![Space Ships War 2D - Gameplay](https://img.youtube.com/vi/qKMTtWcwJAE/hqdefault.jpg)](https://youtube.com/shorts/qKMTtWcwJAE)
+
 A retro-inspired 2D spaceship game developed to practice C# programming and explore the implementation of arcade-style gameplay systems.
 
 **Key areas:**
@@ -57,10 +59,9 @@ A retro-inspired 2D spaceship game developed to practice C# programming and expl
 
 **Technologies:** Unity · C#
 
-[▶ Watch Gameplay](https://github.com/alospinar/SpaceShipsWar2dGame/blob/main/Recordings/playtest.mp4)
+[▶ Watch Gameplay on YouTube](https://youtube.com/shorts/qKMTtWcwJAE)
 
 [📂 Explore Repository](https://github.com/alospinar/SpaceShipsWar2dGame)
-
 </td>
 </tr>
 </table>
