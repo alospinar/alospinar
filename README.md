@@ -17,7 +17,7 @@ My goal is to grow as a Gameplay Programmer, contributing to the development of 
 ## 📄 Curriculum Vitae
 
 You can view or download my professional resume here:
-- **[📄 View / Download My CV (PDF)](https://github.com/alospinar/alospinar/raw/main/Andres_Ospina_CV.pdf)** 
+- **[📄 View / Download My CV (PDF)](https://github.com/alospinar/alospinar/blob/main/CV%20Andres%20Ospina%20Github.pdf)** 
 
 ---
 
