@@ -34,6 +34,12 @@ A 2D platformer project focused on developing gameplay mechanics and strengtheni
 - Physics, collisions, and interactions
 - Gameplay implementation
 
+**Challenges & Solutions:**
+- **Challenge:** Achieving responsive, precise jump mechanics and preventing character clipping or sticking on platform corners.
+  - **Solution:** Developed a modular player controller using `Rigidbody2D` with custom raycast-based ground detection, implementing coyote time and jump buffering for a fluid platforming feel.
+- **Challenge:** Managing game state, player progression, and score without tight coupling between UI and gameplay systems.
+  - **Solution:** Implemented the Observer pattern via C# events and ScriptableObjects to cleanly decouple UI listeners from underlying game logic.
+
 **Technologies:** Unity · C#
 
 [▶ Watch Gameplay on YouTube](https://www.youtube.com/watch?v=6mNX-g9DLb4)
@@ -56,6 +62,12 @@ A retro-inspired 2D spaceship game developed to practice C# programming and expl
 - Gameplay logic and object behavior
 - Particle systems and visual effects
 - Camera effects, music, and sound effects
+
+**Challenges & Solutions:**
+- **Challenge:** Preventing garbage collection spikes and frame drops during intense combat scenes with high frequencies of projectile spawns and destructions.
+  - **Solution:** Built a custom Object Pooling system in C# to efficiently recycle bullet and enemy instances rather than repeatedly instantiating and destroying GameObjects at runtime.
+- **Challenge:** Coordinating complex wave spawns, timed power-up effects, and dynamic camera feedback smoothly.
+  - **Solution:** Leveraged C# Coroutines for precise asynchronous sequencing of enemy waves and integrated camera shake impulses upon impact to enhance game feel.
 
 **Technologies:** Unity · C#
 
