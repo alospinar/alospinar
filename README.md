@@ -24,6 +24,8 @@ Here are some of my game projects, where I apply what I learn about programming,
 
 **Genre:** 2D Platformer
 
+[![Hiker 2D Platformer - Gameplay](https://img.youtube.com/vi/6mNX-g9DLb4/hqdefault.jpg)](https://www.youtube.com/watch?v=6mNX-g9DLb4)
+
 A 2D platformer project focused on developing gameplay mechanics and strengthening my Unity and C# programming skills.
 
 **Key areas:**
@@ -34,7 +36,7 @@ A 2D platformer project focused on developing gameplay mechanics and strengtheni
 
 **Technologies:** Unity · C#
 
-[▶ Watch Gameplay](https://github.com/alospinar/Hiker2dPlatformerGame/blob/main/Recordings/playtest.mp4)
+[▶ Watch Gameplay on YouTube](https://www.youtube.com/watch?v=6mNX-g9DLb4)
 
 [📂 Explore Repository](https://github.com/alospinar/Hiker2dPlatformerGame)
 
