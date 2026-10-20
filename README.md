@@ -2,13 +2,22 @@
 
 ### 🎮 Unity Developer | Gameplay Programmer
 
-I'm a Software Engineer focused on **game development and gameplay programming**, currently pursuing a Master's degree in Software Engineering at Universidad de los Andes.
+I'm a Unity Developer in training and a Master's student in Software Engineering at Universidad de los Andes, with knowledge of Unity, C#, object-oriented programming, and gameplay systems.
 
-I enjoy building interactive experiences with **Unity and C#**, developing gameplay mechanics, experimenting with game feel, and applying programming principles to create maintainable game systems.
+I enjoy building interactive experiences, implementing game mechanics, and applying software engineering best practices to create engaging and maintainable games.
 
-My goal is to grow as a **Gameplay Programmer**, with a long-term interest in Game AI, game systems, and technical design.
+I'm characterized by my logical thinking, problem-solving, and attention to detail. My experience as a Teaching Assistant has also strengthened my ability to communicate technical concepts, guide others, and support collaborative learning.
+
+My goal is to grow as a Gameplay Programmer, contributing to the development of quality video games while continuing to explore Game AI, game systems, and technical design.
 
 📍 Bogotá, Colombia · 🎓 Master's Student · 🎮 Unity & C#
+
+---
+
+## 📄 Curriculum Vitae
+
+You can view or download my professional resume here:
+- **[📄 View / Download My CV (PDF)](https://github.com/alospinar/alospinar/raw/main/Andres_Ospina_CV.pdf)** 
 
 ---
 
@@ -42,8 +51,8 @@ A 2D platformer project focused on developing gameplay mechanics and strengtheni
 
 **Technologies:** Unity · C#
 
-[▶ Watch Gameplay on YouTube](https://www.youtube.com/watch?v=6mNX-g9DLb4)
-
+[▶ Watch Gameplay on YouTube](https://www.youtube.com/watch?v=6mNX-g9DLb4)  
+[🕹️ Play on Itch.io](https://alospinar.itch.io/hiker2dplatformer)  
 [📂 Explore Repository](https://github.com/alospinar/Hiker2dPlatformerGame)
 
 </td>
@@ -71,8 +80,8 @@ A retro-inspired 2D spaceship game developed to practice C# programming and expl
 
 **Technologies:** Unity · C#
 
-[▶ Watch Gameplay on YouTube](https://youtube.com/shorts/qKMTtWcwJAE)
-
+[▶ Watch Gameplay on YouTube](https://youtube.com/shorts/qKMTtWcwJAE)  
+[🕹️ Play on Itch.io](https://alospinar.itch.io/spaceshipswar2d)  
 [📂 Explore Repository](https://github.com/alospinar/SpaceShipsWar2dGame)
 </td>
 </tr>
@@ -124,7 +133,7 @@ A retro-inspired 2D spaceship game developed to practice C# programming and expl
 
 I'm continuously developing my skills in:
 
-- 🎮 Advanced gameplay programming with Unity and C#
+- `r` Advanced gameplay programming with Unity and C#
 - 🧩 Game architecture, design patterns, and reusable systems
 - 🎥 Cinemachine, camera shake, and game feel
 - ✨ Particle effects, Shader Graph, and post-processing
