@@ -83,6 +83,41 @@ A retro-inspired 2D spaceship game developed to practice C# programming and expl
 [▶ Watch Gameplay on YouTube](https://youtube.com/shorts/qKMTtWcwJAE)  
 [🕹️ Play on Itch.io](https://alospinar.itch.io/spaceshipswar2d)  
 [📂 Explore Repository](https://github.com/alospinar/SpaceShipsWar2dGame)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 The Librarian's Curse
+
+**Genre:** Action Game · Game Jam (2 days, team of 4)
+
+[![The Librarian's Curse - Gameplay](https://img.youtube.com/vi/TU_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=TU_VIDEO_ID)
+
+A fast-paced action game created during a two-day Game Jam with Group 7 of the Generation Bootcamp. Climb through a cursed library, collect magical books that unlock new abilities, survive the enemies, and defeat the wizard at the top floor.
+
+**Key areas:**
+- Player movement, running, and dash ability
+- Ability unlock system through collectible books
+- Enemy chase behavior and projectile (fireball) mechanics
+- Teamwork, project management, and rapid prototyping
+
+**Challenges & Solutions:**
+- **Challenge:** Delivering a complete, playable game in only two days while coordinating programmers, artists, UI, and level design.
+  - **Solution:** Acted as Project Manager and Gameplay Programmer, defining a clear scope through a Game Design Document, splitting tasks by role, and integrating work continuously through Git (100+ commits).
+- **Challenge:** Creating a sense of progression and tension within a very short development cycle.
+  - **Solution:** Designed ability books (Dash, Fire, Fast Movement) that expand the player's toolset and add time to the run, combined with chasing enemies and fireballs from fixed spawn points that force constant movement.
+
+**Technologies:** Unity · C# · Git/GitHub
+
+[▶ Watch Gameplay on YouTube](https://www.youtube.com/watch?v=TU_VIDEO_ID)  
+[🕹️ Play on Itch.io](https://alospinar.itch.io/the-librarians-curse)  
+[📄 Read the GDD](https://github.com/alospinar/projectGroup7Game/blob/Main/The_Librarian's%20_Curse_GDD_Game_Jam.pdf)  
+[📂 Explore Repository](https://github.com/alospinar/projectGroup7Game)
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
