@@ -93,7 +93,7 @@ A retro-inspired 2D spaceship game developed to practice C# programming and expl
 
 **Genre:** Action Game · Game Jam (2 days, team of 4)
 
-[![The Librarian's Curse - Gameplay](https://youtu.be/LJPNbFF9HyE/hqdefault.jpg)](https://youtu.be/LJPNbFF9HyE)
+[![The Librarian's Curse - Gameplay](https://img.youtube.com/vi/LJPNbFF9HyE/hqdefault.jpg)](https://youtu.be/LJPNbFF9HyE)
 
 A fast-paced action game created during a two-day Game Jam with Group 7 of the Generation Bootcamp. Climb through a cursed library, collect magical books that unlock new abilities, survive the enemies, and defeat the wizard at the top floor.
 
