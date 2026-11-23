@@ -124,7 +124,7 @@ A fast-paced action game created during a two-day Game Jam with Group 7 of the G
 **Genre:** 2D Side-Scrolling Platformer · Game Jam (Generation Colombia GameJam 2, team of 4)
 
 <!-- TODO: replace YOUR_VIDEO_ID with the YouTube video ID (the part after "v=" in the video URL) -->
-[![El Viaje de Paco - Gameplay](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![El Viaje de Paco - Gameplay](https://img.youtube.com/vi/T6r3Ovh6AjA/hqdefault.jpg)](https://www.youtube.com/watch?v=T6r3Ovh6AjA)
 
 A 2D side-scrolling game set in a Bogotá night, created during a Game Jam. Paco switches between a harsh real world and an altered, surreal one using collectible mushrooms, while managing his anxiety, avoiding police detection, and collecting tickets across three levels.
 
@@ -145,7 +145,7 @@ A 2D side-scrolling game set in a Bogotá night, created during a Game Jam. Paco
 
 **Technologies:** Unity · C# · Git/GitHub
 
-[▶ Watch Gameplay on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+[▶ Watch Gameplay on YouTube](https://www.youtube.com/watch?v=T6r3Ovh6AjA)  
 [🕹️ Play on Itch.io](https://wooliesam.itch.io/el-viaje-de-paco)  
 [📄 Read the GDD](https://drive.google.com/file/d/1GtLMmGCBQ7XVUMhkAWjpg1ZomoxjptDr/view?usp=sharing)  
 [📂 Explore Repository](https://github.com/alospinar/gamejam2group2)
