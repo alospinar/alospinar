@@ -118,6 +118,38 @@ A fast-paced action game created during a two-day Game Jam with Group 7 of the G
 
 </td>
 <td width="50%" valign="top">
+
+### 🍄 El Viaje de Paco
+
+**Genre:** 2D Side-Scrolling Platformer · Game Jam (Generation Colombia GameJam 2, team of 4)
+
+<!-- TODO: replace YOUR_VIDEO_ID with the YouTube video ID (the part after "v=" in the video URL) -->
+[![El Viaje de Paco - Gameplay](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+A 2D side-scrolling game set in a Bogotá night, created during a Game Jam. Paco switches between a harsh real world and an altered, surreal one using collectible mushrooms, while managing his anxiety, avoiding police detection, and collecting tickets across three levels.
+
+**Key areas:**
+- Real/fantasy world-switching system with limited mushroom charges
+- Anxiety and danger-zone mechanics
+- Police field-of-view detection and game-over states
+- NPC dialogue, pushable furniture, and interaction system
+- Teamwork, project management, and rapid prototyping
+
+**Challenges & Solutions:**
+- **Challenge:** Making one level behave as two different worlds, each with its own visuals, platforms, colliders, and physics.
+  - **Solution:** Built a `WorldManager` and `WorldObject` system that swaps sprites, scales, colliders, rigidbody states, active tilemaps, and music on each switch, consuming a mushroom charge per use.
+- **Challenge:** Keeping the player's progress consistent across multiple scenes (anxiety, mushrooms, tickets, and game state).
+  - **Solution:** Implemented a persistent `LevelManager` that carries session state between levels and handles level transitions and game-over conditions.
+- **Challenge:** Coordinating a team of four with different roles to deliver a complete game within the jam deadline.
+  - **Solution:** Acted as Project Manager and Gameplay Programmer, splitting tasks by role (art/animation, level design/SFX, documentation) and integrating work continuously through Git (100+ commits).
+
+**Technologies:** Unity · C# · Git/GitHub
+
+[▶ Watch Gameplay on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+[🕹️ Play on Itch.io](https://wooliesam.itch.io/el-viaje-de-paco)  
+[📄 Read the GDD](https://drive.google.com/file/d/1GtLMmGCBQ7XVUMhkAWjpg1ZomoxjptDr/view?usp=sharing)  
+[📂 Explore Repository](https://github.com/alospinar/gamejam2group2)
+
 </td>
 </tr>
 </table>
